@@ -1,0 +1,130 @@
+{
+  "passed": 25,
+  "results": [
+    {
+      "test": "Chromium: mobile first screen",
+      "passed": true,
+      "details": "390×844: product and Start game visible"
+    },
+    {
+      "test": "Chromium: keyboard movement",
+      "passed": true,
+      "details": "ArrowLeft, ArrowRight, A and D change the rendered hamster position"
+    },
+    {
+      "test": "Chromium: pointer controls",
+      "passed": true,
+      "details": "Hold button moves right; captured playfield drag moves left"
+    },
+    {
+      "test": "Chromium: pause and resume",
+      "passed": true,
+      "details": "Space pauses; timer remains unchanged across 3 seconds; resume continues"
+    },
+    {
+      "test": "Chromium: automatic pause",
+      "passed": true,
+      "details": "Window blur pauses with explicit explanation and freezes countdown"
+    },
+    {
+      "test": "Chromium: complete round",
+      "passed": true,
+      "details": "45 active seconds; acceleration; score 730; result, item counts and best displayed"
+    },
+    {
+      "test": "Chromium: persistence and replay",
+      "passed": true,
+      "details": "Replay resets round; reload preserves English and local best"
+    },
+    {
+      "test": "Chromium: optional sound control",
+      "passed": true,
+      "details": "AudioContext enabled by gesture, then muted; no audible-output claim"
+    },
+    {
+      "test": "Chromium: layout and accessibility scan",
+      "passed": true,
+      "details": "No horizontal overflow at 320, 390, 768, 1100, 1440; axe has no violations"
+    },
+    {
+      "test": "Chromium: help and official link",
+      "passed": true,
+      "details": "Help anchor navigates to rules; official link points to the supplied URL"
+    },
+    {
+      "test": "Chromium: static subpath and privacy",
+      "passed": true,
+      "details": "/preview/ assets resolve; no script errors, failed requests or external runtime requests"
+    },
+    {
+      "test": "WebKit: mobile first screen",
+      "passed": true,
+      "details": "390×844: product and Start game visible"
+    },
+    {
+      "test": "WebKit: keyboard movement",
+      "passed": true,
+      "details": "ArrowLeft, ArrowRight, A and D change the rendered hamster position"
+    },
+    {
+      "test": "WebKit: pointer controls",
+      "passed": true,
+      "details": "Hold button moves right; captured playfield drag moves left"
+    },
+    {
+      "test": "WebKit: pause and resume",
+      "passed": true,
+      "details": "Space pauses; timer remains unchanged across 3 seconds; resume continues"
+    },
+    {
+      "test": "WebKit: automatic pause",
+      "passed": true,
+      "details": "Window blur pauses with explicit explanation and freezes countdown"
+    },
+    {
+      "test": "WebKit: complete round",
+      "passed": true,
+      "details": "45 active seconds; acceleration; score 730; result, item counts and best displayed"
+    },
+    {
+      "test": "WebKit: persistence and replay",
+      "passed": true,
+      "details": "Replay resets round; reload preserves English and local best"
+    },
+    {
+      "test": "WebKit: optional sound fallback",
+      "passed": true,
+      "details": "Unsupported audio has a clear notice; game remains usable"
+    },
+    {
+      "test": "WebKit: layout and accessibility scan",
+      "passed": true,
+      "details": "No horizontal overflow at 320, 390, 768, 1100, 1440; axe has no violations"
+    },
+    {
+      "test": "WebKit: help and official link",
+      "passed": true,
+      "details": "Help anchor navigates to rules; official link points to the supplied URL"
+    },
+    {
+      "test": "WebKit: static subpath and privacy",
+      "passed": true,
+      "details": "/preview/ assets resolve; no script errors, failed requests or external runtime requests"
+    },
+    {
+      "test": "Storage denial fallback",
+      "passed": true,
+      "details": "Clear session-only notice; touch starts the game with localStorage blocked"
+    },
+    {
+      "test": "Mobile touch input",
+      "passed": true,
+      "details": "Emulated touch hold and touch drag move the rendered hamster; no physical-device claim"
+    },
+    {
+      "test": "Visibility-change pause",
+      "passed": true,
+      "details": "Hidden document signal freezes the round; requires an explicit resume"
+    }
+  ]
+}

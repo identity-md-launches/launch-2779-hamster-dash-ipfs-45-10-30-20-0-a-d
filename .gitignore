@@ -1,0 +1,12 @@
+# Dependencies and caches at every nesting level.
+node_modules/
+.vite/
+.cache/
+.npm/
+# Disposable worker checks.
+test/scratch/
+# Required export and review evidence.
+!/dist/
+!/dist/**
+!/artifacts/
+!/artifacts/**

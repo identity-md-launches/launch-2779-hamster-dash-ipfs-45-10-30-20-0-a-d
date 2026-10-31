@@ -1,0 +1,40 @@
+{
+  "files": [
+    {
+      "path": "dist/assets/index-ChgZylwF.js",
+      "bytes": 251958,
+      "sha256": "ceecba49824e4ff24eb32f57acfe94de3af5c68636c16c8047ace57d0b487b8c"
+    },
+    {
+      "path": "dist/assets/index-DZI6wIH_.css",
+      "bytes": 15424,
+      "sha256": "8dc0818475843985fb34e1e5147d31e74e712392e7d1af57b7371e40f8cb2c4c"
+    },
+    {
+      "path": "dist/assets/nunito-latin-wght-normal-BzFMHfZw.woff2",
+      "bytes": 39128,
+      "sha256": "ba344451eab25b217a165363b1982048a5e5830a0daf36577973955a04cac793"
+    },
+    {
+      "path": "dist/favicon.svg",
+      "bytes": 637,
+      "sha256": "7942e9dee65af1c285e8e6e9efd3fe1ad7a279a3faa6491276b6e97220416f8e"
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 1637,
+      "sha256": "b3c1ffe5504a8a0fb3458e149fcd949ae0587a17228cd0f44f814f2182f79646"
+    },
+    {
+      "path": "dist/og-image.png",
+      "bytes": 29776,
+      "sha256": "079f8d9629c5011819b206f8436706699fd991f1eb9b12a380c90598c35bcf41"
+    },
+    {
+      "path": "dist/third-party-notices.txt",
+      "bytes": 5712,
+      "sha256": "b21e1675d78410e8de802e2a44394b18015ac7a47569793737d35ab3239a8a27"
+    }
+  ],
+  "totalBytes": 344272
+}

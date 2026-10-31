@@ -1,0 +1,223 @@
+{
+  "limitBytes": 8388608,
+  "explicitPathBudgets": {
+    ".gitignore": 256
+  },
+  "totalBytes": 1130121,
+  "remainingBytes": 7258487,
+  "fileCount": 49,
+  "byPath": {
+    ".gitignore": 212,
+    "README.md": 6595,
+    "DESIGN.md": 10480,
+    "index.html": 1538,
+    "package.json": 701,
+    "package-lock.json": 40552,
+    "tsconfig.json": 388,
+    "vite.config.ts": 135,
+    "src": 100976,
+    "public": 36125,
+    "dist": 344272,
+    "tests": 17738,
+    "licenses": 17543,
+    "artifacts": 552866
+  },
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 212
+    },
+    {
+      "path": "README.md",
+      "bytes": 6595
+    },
+    {
+      "path": "DESIGN.md",
+      "bytes": 10480
+    },
+    {
+      "path": "index.html",
+      "bytes": 1538
+    },
+    {
+      "path": "package.json",
+      "bytes": 701
+    },
+    {
+      "path": "package-lock.json",
+      "bytes": 40552
+    },
+    {
+      "path": "tsconfig.json",
+      "bytes": 388
+    },
+    {
+      "path": "vite.config.ts",
+      "bytes": 135
+    },
+    {
+      "path": "src/App.tsx",
+      "bytes": 11541
+    },
+    {
+      "path": "src/Icons.tsx",
+      "bytes": 1371
+    },
+    {
+      "path": "src/assets/battery.svg",
+      "bytes": 407
+    },
+    {
+      "path": "src/assets/hamster.svg",
+      "bytes": 2115
+    },
+    {
+      "path": "src/assets/nunito-latin-wght-normal.woff2",
+      "bytes": 39128
+    },
+    {
+      "path": "src/assets/rock.svg",
+      "bytes": 400
+    },
+    {
+      "path": "src/assets/seed.svg",
+      "bytes": 400
+    },
+    {
+      "path": "src/assets/share-card.svg",
+      "bytes": 4492
+    },
+    {
+      "path": "src/game.ts",
+      "bytes": 3687
+    },
+    {
+      "path": "src/i18n.ts",
+      "bytes": 5854
+    },
+    {
+      "path": "src/main.tsx",
+      "bytes": 158
+    },
+    {
+      "path": "src/renderer.ts",
+      "bytes": 4889
+    },
+    {
+      "path": "src/sound.ts",
+      "bytes": 1523
+    },
+    {
+      "path": "src/storage.ts",
+      "bytes": 904
+    },
+    {
+      "path": "src/styles.css",
+      "bytes": 17822
+    },
+    {
+      "path": "src/useGame.ts",
+      "bytes": 6285
+    },
+    {
+      "path": "public/favicon.svg",
+      "bytes": 637
+    },
+    {
+      "path": "public/og-image.png",
+      "bytes": 29776
+    },
+    {
+      "path": "public/third-party-notices.txt",
+      "bytes": 5712
+    },
+    {
+      "path": "dist/assets/index-ChgZylwF.js",
+      "bytes": 251958
+    },
+    {
+      "path": "dist/assets/index-DZI6wIH_.css",
+      "bytes": 15424
+    },
+    {
+      "path": "dist/assets/nunito-latin-wght-normal-BzFMHfZw.woff2",
+      "bytes": 39128
+    },
+    {
+      "path": "dist/favicon.svg",
+      "bytes": 637
+    },
+    {
+      "path": "dist/index.html",
+      "bytes": 1637
+    },
+    {
+      "path": "dist/og-image.png",
+      "bytes": 29776
+    },
+    {
+      "path": "dist/third-party-notices.txt",
+      "bytes": 5712
+    },
+    {
+      "path": "tests/browser.mjs",
+      "bytes": 13786
+    },
+    {
+      "path": "tests/engine.test.ts",
+      "bytes": 3952
+    },
+    {
+      "path": "licenses/Nunito-OFL.txt",
+      "bytes": 4491
+    },
+    {
+      "path": "licenses/React-MIT.txt",
+      "bytes": 1088
+    },
+    {
+      "path": "licenses/design-guidance.txt",
+      "bytes": 11964
+    },
+    {
+      "path": "artifacts/browser-checks.json",
+      "bytes": 4276
+    },
+    {
+      "path": "artifacts/bundle-budget.json",
+      "bytes": 4106
+    },
+    {
+      "path": "artifacts/export-manifest.json",
+      "bytes": 1179
+    },
+    {
+      "path": "artifacts/screenshots/desktop-1440-zh.webp",
+      "bytes": 282340
+    },
+    {
+      "path": "artifacts/screenshots/mobile-390-zh.webp",
+      "bytes": 78938
+    },
+    {
+      "path": "artifacts/screenshots/paused-390-zh.webp",
+      "bytes": 63844
+    },
+    {
+      "path": "artifacts/screenshots/result-390-en.webp",
+      "bytes": 25614
+    },
+    {
+      "path": "artifacts/screenshots/webkit-desktop-en.webp",
+      "bytes": 71986
+    },
+    {
+      "path": "artifacts/taste-summary.json",
+      "bytes": 3311
+    },
+    {
+      "path": "artifacts/validation.md",
+      "bytes": 17272
+    }
+  ]
+}

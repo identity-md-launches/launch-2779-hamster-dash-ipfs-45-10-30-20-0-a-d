@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630"><defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#254735" stroke-width="1"/></pattern></defs><rect width="1200" height="630" fill="#0b211a"/><rect x="740" width="460" height="630" fill="#153c2d"/><rect x="740" width="460" height="630" fill="url(#grid)"/><g font-family="sans-serif"><text x="80" y="88" font-size="28" font-weight="700" fill="#f4f5df">Hamster Dash</text><text x="76" y="215" font-size="76" font-weight="700" letter-spacing="-3" fill="#f4f5df">Tiny paws.</text><text x="76" y="305" font-size="76" font-weight="700" letter-spacing="-3" fill="#b5f56c">Big energy.</text><text x="80" y="366" font-size="25" fill="#a7b9a3">A 45-second dash to fill up on happy.</text><g font-size="28" font-weight="700"><text x="130" y="459" fill="#b5f56c">+10</text><text x="302" y="459" fill="#b5f56c">+30</text><text x="474" y="459" fill="#ffba9f">−20</text></g><path d="M80 515H660" stroke="#395944"/><text x="80" y="558" font-size="20" fill="#a7b9a3">An independent Squeekchain fan game</text></g><ellipse cx="955" cy="461" rx="156" ry="22" fill="#264f36"/><svg x="785" y="135" width="340" height="340" viewBox="0 0 240 240">
+  <ellipse cx="120" cy="219" rx="66" ry="10" fill="#082319" opacity=".25"/>
+  <path d="M74 181c-23 12-29 27-13 31 15 4 34-8 41-19M166 181c23 12 29 27 13 31-15 4-34-8-41-19" fill="#D89551" stroke="#533A24" stroke-width="4" stroke-linecap="round"/>
+  <path d="M61 93C28 77 37 32 65 31c22-1 32 18 34 31m42 0c2-13 12-32 34-31 28 1 37 46 4 62" fill="#DBA164" stroke="#533A24" stroke-width="4"/>
+  <path d="M62 73C46 64 50 45 64 45c12 0 19 14 19 23m74 0c0-9 7-23 19-23 14 0 18 19 2 28" fill="#EDAE9C"/>
+  <path d="M120 54c57 0 86 48 87 91 1 49-37 66-87 66s-88-17-87-66c1-43 30-91 87-91Z" fill="#E7AE70" stroke="#533A24" stroke-width="4"/>
+  <path d="M120 75c-20-1-21 38-43 41-16 2-29 10-29 31 0 32 29 52 72 52s72-20 72-52c0-21-13-29-29-31-22-3-23-42-43-41Z" fill="#FFF0D3"/>
+  <path d="m78 166 42 15 42-15-8 24-34-9-34 9Z" fill="#A8F268" stroke="#416737" stroke-width="3" stroke-linejoin="round"/>
+  <path d="m126 176-8 8h6l-5 9 13-12h-7l5-5Z" fill="#3C6434"/>
+  <ellipse cx="81" cy="130" rx="9" ry="11" fill="#382D25"/>
+  <ellipse cx="159" cy="130" rx="9" ry="11" fill="#382D25"/>
+  <circle cx="84" cy="126" r="3" fill="#fff"/>
+  <circle cx="162" cy="126" r="3" fill="#fff"/>
+  <ellipse cx="64" cy="146" rx="13" ry="7" fill="#EBAB93" opacity=".85"/>
+  <ellipse cx="176" cy="146" rx="13" ry="7" fill="#EBAB93" opacity=".85"/>
+  <path d="M113 144c0-5 14-5 14 0 0 3-7 7-7 7s-7-4-7-7Z" fill="#985942"/>
+  <path d="M120 151v4m-10-1c2 8 8 7 10 1 2 6 8 7 10-1" stroke="#533A24" stroke-width="3" stroke-linecap="round"/>
+  <path d="m46 134-17-4m17 13-17 2m165-11 17-4m-17 13 17 2" stroke="#533A24" stroke-width="3" stroke-linecap="round"/>
+  <path d="M96 179c-12-7-25-4-24 6 0 10 18 13 27 8m45-14c12-7 25-4 24 6 0 10-18 13-27 8" fill="#EDBC87" stroke="#533A24" stroke-width="3" stroke-linecap="round"/>
+  <path d="M120 167c-10 6-22 24-18 35 5 15 25 15 32 0 5-12-4-30-14-35Z" fill="#9C6539" stroke="#533A24" stroke-width="3"/>
+  <path d="M120 171c-4 9-8 23-5 34" stroke="#FCE2AC" stroke-width="6" stroke-linecap="round"/>
+</svg>
+<svg x="76" y="425" width="46" height="46" viewBox="0 0 64 64"><path d="M32 5C21 12 9 29 11 43c3 24 39 24 42 0C55 29 43 12 32 5Z" fill="#C58B4D" stroke="#513F2A" stroke-width="3"/><path d="M32 9c-5 10-11 31-6 45" stroke="#FFE2A5" stroke-width="8" stroke-linecap="round"/><path d="M41 22c6 11 8 21 1 29" stroke="#865D36" stroke-width="3" stroke-linecap="round"/></svg>
+<svg x="248" y="425" width="46" height="46" viewBox="0 0 64 64"><rect x="24" y="3" width="16" height="8" rx="3" fill="#C6F4A0"/><rect x="13" y="10" width="38" height="49" rx="9" fill="#B5F56C" stroke="#DFFFBB" stroke-width="3"/><path d="m36 19-15 19h10l-3 13 16-22H33l3-10Z" fill="#214833"/><path d="M19 20v26" stroke="#E7FFD5" stroke-width="3" stroke-linecap="round"/></svg>
+<svg x="420" y="425" width="46" height="46" viewBox="0 0 64 64"><path d="M21 9 44 7l13 21-4 24-25 6-19-12-2-19L21 9Z" fill="#82918C" stroke="#C1C8BC" stroke-width="3" stroke-linejoin="round"/><path d="m21 9 7 18 29 1M28 27l-6 27m6-27L7 27" stroke="#A6B3A8" stroke-width="3"/><path d="m34 36 6 2m4-4 5-3" stroke="#3B5148" stroke-width="3" stroke-linecap="round"/></svg>
+<path d="m1090 95-10 17h-12l16 10-2 18 13-14 15-3-14-8Z" fill="#b5f56c"/></svg>
